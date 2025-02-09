@@ -1,0 +1,79 @@
+* {
+    color:white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+body{
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.pembuka{
+    margin : 5px;
+
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 2px;
+}
+ 
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.konflik{
+    color: whitesmoke;
+    background-color: black;
+    border: 3px solid white;
+    background-position: 100%; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    border-radius: 50px;
+    width: 100%;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.integrasi{
+    color: whitesmoke;
+    background-color: black;
+    border: 3px solid white;
+    background-position: 100%; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    border-radius: 50px;
+    width: 100%;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.petunjuk{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ft{
+    color: whitesmoke;
+    background-color: black;
+    border: 3px solid white;
+    background-position: 100%; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    border-radius: 50px;
+    width: 100%;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
